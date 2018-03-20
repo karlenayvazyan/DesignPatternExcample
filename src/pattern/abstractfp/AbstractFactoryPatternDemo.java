@@ -1,4 +1,4 @@
-package pattern.factory.abstractfp;
+package pattern.abstractfp;
 
 import pattern.factory.Shape;
 import pattern.factory.ShapeType;

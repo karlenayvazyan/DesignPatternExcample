@@ -1,4 +1,4 @@
-package pattern.factory.abstractfp;
+package pattern.abstractfp;
 
 public class Green implements Color {
     @Override
